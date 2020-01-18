@@ -1,0 +1,4 @@
+project('featuremine_asio_chat_server', 'cpp')
+incdir = include_directories('../asio-1.12.2/include')
+executable('featuremine_asio_chat_server', 'chat_server.cpp', incdir)
+

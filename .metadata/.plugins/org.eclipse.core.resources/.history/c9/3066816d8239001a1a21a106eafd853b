@@ -1,0 +1,3 @@
+project('featuremine_asio_chat_server', 'c')
+executable('featuremine_asio_chat_server', 'featuremine_asio_chat_server.c')
+

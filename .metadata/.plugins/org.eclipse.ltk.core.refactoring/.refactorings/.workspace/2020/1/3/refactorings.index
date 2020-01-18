@@ -1,0 +1,7 @@
+1579302668410	Rename resource 'featuremine_asio'
+1579302727203	Delete 2 resources
+1579303403731	Delete resource 'featuremine_asio_client'
+1579303413656	Delete resource 'featuremine_asio_server'
+1579303490507	Delete resource 'featuremine_asio_chat_server/featuremine_asio_chat_server.c'
+1579303496548	Delete resource 'featuremine_asio_chat_client/featuremine_asio_chat_client.c'
+1579303636268	Delete resource 'featuremine_asio_chat_server/featuremine_asio_server.c'

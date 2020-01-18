@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:featuremine_asio,org.eclipse.cdt.debug.core.coreBuildDescriptorType\:featuremine_asio_chat_client,org.eclipse.cdt.debug.core.coreBuildDescriptorType\:featuremine_asio_chat_server
+eclipse.preferences.version=1
+org.eclipse.cdt.debug.core.coreBuildDescriptorType\:featuremine_asio/activeLaunchMode=run
+org.eclipse.cdt.debug.core.coreBuildDescriptorType\:featuremine_asio/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:featuremine_asio/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:featuremine_asio/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

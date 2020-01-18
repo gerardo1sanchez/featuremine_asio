@@ -8,6 +8,7 @@
 // file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
 //
 
+#include <pthread.h>
 #include <cstdlib>
 #include <deque>
 #include <iostream>
@@ -17,6 +18,7 @@
 #include <utility>
 
 #define ASIO_STANDALONE
+#define ASIO_DISABLE_THREADS
 #include "asio.hpp"
 #include "chat_message.hpp"
 

@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/gerardo/eclipse-workspace-new/featuremine_asio_chat_server/builddir",
+    "command": "c++  -Ifeaturemine_asio_chat_server@exe -I. -I.. -I../../asio-1.12.2/include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -MD -MQ 'featuremine_asio_chat_server@exe/chat_server.cpp.o' -MF 'featuremine_asio_chat_server@exe/chat_server.cpp.o.d' -o 'featuremine_asio_chat_server@exe/chat_server.cpp.o' -c ../chat_server.cpp",
+    "file": "../chat_server.cpp"
+  }
+]

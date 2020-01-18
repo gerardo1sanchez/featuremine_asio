@@ -1,0 +1,10 @@
+# ninja log v5
+0	3777	1579305772	featuremine_asio_chat_server@exe/chat_server.cpp.o	df478b5c260ac071
+6	3606	1579307140	featuremine_asio_chat_server@exe/chat_server.cpp.o	df478b5c260ac071
+4	3559	1579307214	featuremine_asio_chat_server@exe/chat_server.cpp.o	df478b5c260ac071
+7	3280	1579307348	featuremine_asio_chat_server@exe/chat_server.cpp.o	df478b5c260ac071
+0	16	0	meson-clean	d59b6dac04fa9b5d
+2	3214	1579307402	featuremine_asio_chat_server@exe/chat_server.cpp.o	df478b5c260ac071
+2	3319	1579307501	featuremine_asio_chat_server@exe/chat_server.cpp.o	df478b5c260ac071
+2	3827	1579308062	featuremine_asio_chat_server@exe/chat_server.cpp.o	df478b5c260ac071
+3828	4022	1579308062	featuremine_asio_chat_server	509f070add39afbf
